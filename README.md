@@ -19,6 +19,5 @@ I am a beginner .NET/C# developer focused on learning backend development and bu
 Web application for managing travel tours.  
 The system allows adding and storing information about trips and destinations.
 
-
-### 📌 SQL Practice Projects
+# 📌 SQL Practice Projects
 Examples of queries using JOIN, GROUP BY, and optimization analysis.
